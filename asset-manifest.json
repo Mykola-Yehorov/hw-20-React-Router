@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/hw-20-React-Router/static/css/main.50d38e6d.chunk.css",
+    "main.js": "/hw-20-React-Router/static/js/main.c7c6d0f2.chunk.js",
+    "main.js.map": "/hw-20-React-Router/static/js/main.c7c6d0f2.chunk.js.map",
+    "runtime-main.js": "/hw-20-React-Router/static/js/runtime-main.2cb3daef.js",
+    "runtime-main.js.map": "/hw-20-React-Router/static/js/runtime-main.2cb3daef.js.map",
+    "static/js/2.3f6946ec.chunk.js": "/hw-20-React-Router/static/js/2.3f6946ec.chunk.js",
+    "static/js/2.3f6946ec.chunk.js.map": "/hw-20-React-Router/static/js/2.3f6946ec.chunk.js.map",
+    "static/js/3.a69817df.chunk.js": "/hw-20-React-Router/static/js/3.a69817df.chunk.js",
+    "static/js/3.a69817df.chunk.js.map": "/hw-20-React-Router/static/js/3.a69817df.chunk.js.map",
+    "index.html": "/hw-20-React-Router/index.html",
+    "static/css/main.50d38e6d.chunk.css.map": "/hw-20-React-Router/static/css/main.50d38e6d.chunk.css.map",
+    "static/js/2.3f6946ec.chunk.js.LICENSE.txt": "/hw-20-React-Router/static/js/2.3f6946ec.chunk.js.LICENSE.txt",
+    "static/media/1.7458699d.jpg": "/hw-20-React-Router/static/media/1.7458699d.jpg",
+    "static/media/10.f4694428.jpg": "/hw-20-React-Router/static/media/10.f4694428.jpg",
+    "static/media/11.b5857c49.jpg": "/hw-20-React-Router/static/media/11.b5857c49.jpg",
+    "static/media/12.f2b22c49.jpg": "/hw-20-React-Router/static/media/12.f2b22c49.jpg",
+    "static/media/2.c7bb0451.jpg": "/hw-20-React-Router/static/media/2.c7bb0451.jpg",
+    "static/media/3.dfb7b30f.jpg": "/hw-20-React-Router/static/media/3.dfb7b30f.jpg",
+    "static/media/4.51728721.jpg": "/hw-20-React-Router/static/media/4.51728721.jpg",
+    "static/media/5.020d86f3.jpg": "/hw-20-React-Router/static/media/5.020d86f3.jpg",
+    "static/media/6.472eacb1.jpg": "/hw-20-React-Router/static/media/6.472eacb1.jpg",
+    "static/media/7.af66015a.jpg": "/hw-20-React-Router/static/media/7.af66015a.jpg",
+    "static/media/8.2433981b.jpg": "/hw-20-React-Router/static/media/8.2433981b.jpg",
+    "static/media/9.ba6c9ab4.jpg": "/hw-20-React-Router/static/media/9.ba6c9ab4.jpg",
+    "static/media/Graphic_Logo.cefc07a0.webp": "/hw-20-React-Router/static/media/Graphic_Logo.cefc07a0.webp",
+    "static/media/andri.b47d7212.jpg": "/hw-20-React-Router/static/media/andri.b47d7212.jpg",
+    "static/media/lord.894b90e2.jpg": "/hw-20-React-Router/static/media/lord.894b90e2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cb3daef.js",
+    "static/js/2.3f6946ec.chunk.js",
+    "static/css/main.50d38e6d.chunk.css",
+    "static/js/main.c7c6d0f2.chunk.js"
+  ]
+}
