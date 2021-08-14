@@ -1,0 +1,28 @@
+.menu{
+  text-align: center;
+  background-color: #fcfcfc;
+}
+a{
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ff4f00;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: .3s;
+  color: #333;
+}
+a:hover{
+  background-color: #ff4f00;
+  color: white;
+}
+a.active{
+  background-color: #ff4f00;
+  color: white;
+  display: inline-block;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ff4f00;
+  border-radius: 5px;
+  text-decoration: none;
+}

@@ -1,0 +1,121 @@
+html{
+  box-sizing: border-box;
+  }
+  
+  .card{
+      background-color: #ececec;
+      color: #172b4d;
+      max-width: 1000px;
+      width: 100%;
+      min-height: 500px;
+      padding: 30px;
+      margin: 50px auto;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      border-radius: 5px;
+  }
+  
+  .card__up{
+      display: flex;
+  }
+  
+  .card__up-ava{
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      margin-right: 20px;
+      margin-bottom: 10px;
+  }
+  
+  .card__up-nickname,
+  .card__up-date,
+  .card__up-point{
+      color: #172b4d;
+      margin-left: 10px;
+      font-weight: 300;
+      font-style: italic;
+  }
+  
+  .card__arrow-down{
+      width: 25px;
+  }
+  .card__up-title-wrapper,
+  .card__up-content{
+      display: flex;
+      font-size: 28px;
+      line-height: 45px;
+      font-weight: 500;
+  }
+  .card__img,
+  .card__buttons{
+      margin-left: 120px;
+      width: 100%;
+      max-width: 830px;
+  }
+  
+  .card__img{
+      border-radius: 5px;
+  }
+
+  .card__up-title{
+      height: 30px;
+      font-weight: 600;
+      margin-right: 15px;
+  }
+  .card__buttons
+  {
+      margin-top: 20px;
+      display: flex;
+      justify-content: space-between;
+  }
+  
+  .card__button-wrapper{
+      display: flex;
+  }
+  .card__button{
+      background-color: transparent;
+      border: 0;
+      margin: 0;
+      padding: 0;
+      outline: none;
+      transition: all 0.3s ease;
+ }
+ .card__button:hover{
+     -webkit-transform: scale(1.1);
+     -ms-transform: scale(1.1);
+     transform: scale(1.1);
+     cursor: pointer;
+ }
+  .card__button-number{
+      line-height: 20px;
+      margin-left: 10px;
+  }
+  .card__button img{
+      width: 20px;
+      height: 20px;
+      margin-right: 10px;
+  }
+  
+  .card__up-checked{
+      font-size: 20px;
+      margin-top: 5px;
+  }
+
+  @media (max-width: 500px) {
+    .card{
+        min-height: 420px;
+    }
+    .card__up{
+          display: block;
+      }
+      .card__img, .card__buttons{
+        margin-left:0;
+      }
+      .card__up-nickname, .card__up-date, .card__up-point{
+          font-size: 20px;
+      }
+      .card__up-title-wrapper, .card__up-content{
+        line-height: 22px;
+        font-size: 22px;
+        margin-bottom: 15px;
+      }
+  }
